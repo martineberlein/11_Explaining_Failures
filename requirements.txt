@@ -1,3 +1,4 @@
 isla-solver>=1.13.8
 jupyterlab>=3.6.3
 returns>=0.20.0
+fuzzingbook==1.1
